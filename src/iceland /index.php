@@ -302,7 +302,7 @@
 
         <div class="bd-example">
         <p class="lead">
-          This is a lead paragraph. It stands out from regular paragraphs.
+       
         </p>
         </div>
 
