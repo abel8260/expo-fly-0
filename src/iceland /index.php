@@ -292,10 +292,11 @@
       
       
         <div class="bd-example">
-        <p class="display-6">Display 6</p>
+        
         </div>
 
         <div class="bd-example">
+        <p class="display-6">Display 6</p>
         <p class="h6">Heading 6</p>
         </div>
 
@@ -317,10 +318,7 @@
         </div>
 
         <div class="bd-example">
-        <blockquote class="blockquote">
-          <p>A well-known quote, contained in a blockquote element.</p>
-          <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
-        </blockquote>
+       
         </div>
 
         <div class="bd-example">
@@ -341,11 +339,7 @@
         </div>
 
         <div class="bd-example">
-        <ul class="list-inline">
-          <li class="list-inline-item">This is a list item.</li>
-          <li class="list-inline-item">And another one.</li>
-          <li class="list-inline-item">But they're displayed inline.</li>
-        </ul>
+       
         </div>
       </div>
       <div class="bd-heading sticky-xl-top align-self-start mt-5 mb-3 mt-xl-0 mb-xl-2">
