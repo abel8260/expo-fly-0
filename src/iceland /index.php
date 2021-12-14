@@ -289,7 +289,7 @@
 
 <article class="my-3" id="typography">
  
-      <div>
+      
       
         <div class="bd-example">
         <p class="display-6">Display 6</p>
