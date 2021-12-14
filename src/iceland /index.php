@@ -228,12 +228,10 @@
   <nav class="small" id="toc">
     <ul class="list-unstyled">
       <li class="my-2">
-        <button class="btn d-inline-flex align-items-center collapsed" data-bs-toggle="collapse" aria-expanded="false" data-bs-target="#contents-collapse" aria-controls="contents-collapse">Contents</button>
+        <button class="btn d-inline-flex align-items-center collapsed" data-bs-toggle="collapse" aria-expanded="false" data-bs-target="#contents-collapse" aria-controls="contents-collapse">Servers:</button>
         <ul class="list-unstyled ps-3 collapse" id="contents-collapse">
-          <li><a class="d-inline-flex align-items-center rounded" href="#typography">Typography</a></li>
-          <li><a class="d-inline-flex align-items-center rounded" href="#images">Images</a></li>
-          <li><a class="d-inline-flex align-items-center rounded" href="#tables">Tables</a></li>
-          <li><a class="d-inline-flex align-items-center rounded" href="#figures">Figures</a></li>
+          <li><a class="d-inline-flex align-items-center rounded" href="#typography">Iceland </a></li>
+ 
         </ul>
       </li>
       <li class="my-2">
