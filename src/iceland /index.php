@@ -285,7 +285,11 @@
       <h2 class="sticky-xl-top fw-bold pt-3 pt-xl-5 pb-2 pb-xl-3">Contents</h2>
 
 <article class="my-3" id="typography">
-<div class="bd-example">
+ 
+      <div>
+        <div class="bd-example">
+
+        <div class="bd-example">
     <svg class="bd-placeholder-img img-thumbnail" width="200" height="200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A generic square placeholder image with a white border around it, making it resemble a photograph taken with an old instant camera: 200x200" preserveAspectRatio="xMidYMid slice" focusable="false"><title>A generic square placeholder image with a white border around it, making it resemble a photograph taken with an old instant camera</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em">image 1 </text></svg>
 
 </div> 
@@ -297,9 +301,7 @@
 <div class="bd-example">
     <svg class="bd-placeholder-img img-thumbnail" width="200" height="200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="A generic square placeholder image with a white border around it, making it resemble a photograph taken with an old instant camera: 200x200" preserveAspectRatio="xMidYMid slice" focusable="false"><title>A generic square placeholder image with a white border around it, making it resemble a photograph taken with an old instant camera</title><rect width="100%" height="100%" fill="#868e96"/><text x="50%" y="50%" fill="#dee2e6" dy=".3em">image 3 </text></svg>
 
-</div> 
-      <div>
-        <div class="bd-example">
+</div>
         <p class="display-1">Display 1</p>
         <p class="display-2">Display 2</p>
         <p class="display-3">Display 3</p>
