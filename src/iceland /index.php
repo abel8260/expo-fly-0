@@ -18,7 +18,7 @@
 
 
 
-<link rel="icon" href="../drawing.svg" sizes="any" type="image/svg+xml">
+<link rel="icon" href="../../drawing.svg" sizes="any" type="image/svg+xml">
 <meta name="theme-color" content="#7952b3">
 
 
